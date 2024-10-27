@@ -11,3 +11,4 @@
 7. update the main.py
 8. update the app.py
 
+222634379739.dkr.ecr.eu-north-1.amazonaws.com/text-s
